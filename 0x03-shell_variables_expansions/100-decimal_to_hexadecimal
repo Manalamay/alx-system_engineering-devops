@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%x.\n" %DECIMAL
+./decimal_to_hex.sh
